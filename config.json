@@ -1,0 +1,5 @@
+{
+  "token": "Your-Discord-Bot-Token",
+  "channelId": "Channel-ID",
+  "logFile": "C:/path/to/log/file/logfile.log"
+}
